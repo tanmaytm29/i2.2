@@ -23,18 +23,8 @@ h1{
   margin-bottom: 40px;
   background-color: rgb(125, 147, 211);
   box-shadow: 20px 20px rgba(109, 21, 82, 0.568);
+}
 
-table {
-    border-radius: 20px;
-    background-color: white;
-    margin: 20px;
-    border-collapse: collapse;
-  }
-  
-td,
-th {
-    padding: 20px;
-  }
 
 input[type="text"],
 input[type="number"],
